@@ -301,14 +301,14 @@ export default function UltimateFuturisticCongratulations() {
             </div>
 
             {/* SUCCESS MESSAGE */}
-            {imageLoaded.cousin && imageLoaded.cultus && (
+            {/* {imageLoaded.cousin && imageLoaded.cultus && (
               <div className="mb-6 p-4 bg-green-500/20 border-2 border-green-400 rounded-lg animate-pulse">
                 <p className="text-green-300 font-bold text-lg">✅ IMAGES LOADED SUCCESSFULLY! ✅</p>
                 <p className="text-green-200 text-sm">
                   Your cousin and the Cultus are now part of this legendary celebration!
                 </p>
               </div>
-            )}
+            )} */}
 
             {/* Holographic Car Display - ENHANCED */}
             <div className="mb-12 relative">
