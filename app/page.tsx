@@ -246,7 +246,7 @@ export default function UltimateFuturisticCongratulations() {
                     celebrationMode ? "bg-yellow-400 text-black text-lg animate-bounce" : "bg-cyan-400 text-black"
                   }`}
                 >
-                  🌟 THE LEGEND 🌟
+                  🌟 SARFRAZ 🌟
                 </div>
               </div>
 
@@ -295,7 +295,7 @@ export default function UltimateFuturisticCongratulations() {
                     celebrationMode ? "bg-purple-400 text-white text-lg animate-pulse" : "bg-purple-400 text-white"
                   }`}
                 >
-                  🚗 THE MACHINE 🚗
+                  🚗 CULTUS 🚗
                 </div>
               </div>
             </div>
